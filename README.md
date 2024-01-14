@@ -11,7 +11,7 @@ The projects in this repository includes:-
 2. [Cat and Dog Image Classifier](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Cat%20and%20Dog%20Image%20Classifier)
 3. [Book Recommendation Engine using KNN](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Book%20Recommendation%20Engine%20using%20KNN)
 4. [Linear Regression Health Costs Calculator](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Linear%20Regression%20Health%20Costs%20Calculator)
-5. [Rock Paper Scissors](https://github.com/gandharvk422/fcc_ml_projects/Rock%20Paper%20Scissors)
+5. [Neural Network SMS Text Classifier](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Neural%20Network%20SMS%20Text%20Classifier)
 
 ## Technologies Used
 
