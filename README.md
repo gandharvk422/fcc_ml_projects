@@ -1,10 +1,17 @@
 # FCC Machine Learning Projects
 
-Welcome to my GitHub repository, **fcc_ml_projects**. This repository contains a collection of machine learning projects that I have completed as part of the *FreeCodeCamp.org* curriculum.
+Welcome to my GitHub repository, **fcc_ml_projects**. This repository contains a collection of machine learning projects that I have completed as part of the *[FreeCodeCamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/)* curriculum.
 
 ## About the Projects
 
 These projects cover a wide range of machine learning concepts and techniques, providing a practical and hands-on approach to learning. Each project is self-contained, meaning you can view the code, run it, and see the results all within its own directory.
+
+The projects in this repository includes:-
+1. [Rock Paper Scissors](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Rock%20Paper%20Scissors)
+2. [Cat and Dog Image Classifier](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Cat%20and%20Dog%20Image%20Classifier)
+3. [Book Recommendation Engine using KNN](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Book%20Recommendation%20Engine%20using%20KNN)
+4. [Linear Regression Health Costs Calculator](https://github.com/gandharvk422/fcc_ml_projects/tree/main/Linear%20Regression%20Health%20Costs%20Calculator)
+5. [Rock Paper Scissors](https://github.com/gandharvk422/fcc_ml_projects/Rock%20Paper%20Scissors)
 
 ## Technologies Used
 
