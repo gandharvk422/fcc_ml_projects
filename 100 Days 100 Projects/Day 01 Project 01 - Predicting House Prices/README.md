@@ -8,9 +8,9 @@ This project aims to predict house prices based on various features such as the 
 
 ## Folder Structure
 
-- **<a href="100 Days 100 Projects/Day 01 Project 01 - Predicting House Prices/01. Using Linear Regression/">01. Using Linear Regression</a>**: This folder contains the code and resources related to predicting house prices using Linear Regression.
+- **<a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2001%20Project%2001%20-%20Predicting%20House%20Prices/01.%20Using%20Linear%20Regression/">01. Using Linear Regression</a>**: This folder contains the code and resources related to predicting house prices using Linear Regression.
   
-- **<a href="100 Days 100 Projects/Day 01 Project 01 - Predicting House Prices/02. Using Random Forest Regression/">02. Using Random Forest Regression</a>**: This folder contains the code and resources related to predicting house prices using Random Forest Regression.
+- **<a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2001%20Project%2001%20-%20Predicting%20House%20Prices/02.%20Using%20Random%20Forest%20Regression/">02. Using Random Forest Regression</a>**: This folder contains the code and resources related to predicting house prices using Random Forest Regression.
 
 ## Getting Started
 
