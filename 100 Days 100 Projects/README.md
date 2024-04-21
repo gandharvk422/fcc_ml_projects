@@ -68,452 +68,452 @@ Below is a list of the projects included in this repository:
   </tr>
   <tr>
     <th>Diabetes Prediction using Random Forests</th>
-    <td>27/04/2024</td>
-    <td>View Project</td>
-  </tr>
-  <tr>
-    <th>Customer Churn Prediction using XGBoost</th>
     <td>28/04/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Hand Gesture Recognition using Deep Learning</th>
+    <th>Customer Churn Prediction using XGBoost</th>
     <td>29/04/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Human Activity Recognition from Sensor Data</th>
+    <th>Hand Gesture Recognition using Deep Learning</th>
     <td>30/04/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Facial Emotion Recognition using CNNs</th>
+    <th>Human Activity Recognition from Sensor Data</th>
     <td>01/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Text Summarization using Recurrent Neural Networks (RNNs)</th>
+    <th>Facial Emotion Recognition using CNNs</th>
     <td>02/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Topic Modeling using Latent Dirichlet Allocation (LDA)</th>
+    <th>Text Summarization using Recurrent Neural Networks (RNNs)</th>
     <td>03/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Anomaly Detection in Time Series Data</th>
+    <th>Topic Modeling using Latent Dirichlet Allocation (LDA)</th>
     <td>04/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Image Segmentation using U-Net Architecture</th>
+    <th>Anomaly Detection in Time Series Data</th>
     <td>05/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Object Detection using YOLO (You Only Look Once)</th>
+    <th>Image Segmentation using U-Net Architecture</th>
     <td>06/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Speech Recognition using Deep Learning Models</th>
+    <th>Object Detection using YOLO (You Only Look Once)</th>
     <td>07/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Generative Adversarial Networks (GANs) for Image Generation</th>
+    <th>Speech Recognition using Deep Learning Models</th>
     <td>08/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Transfer Learning for Image Classification</th>
+    <th>Generative Adversarial Networks (GANs) for Image Generation</th>
     <td>09/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Style Transfer using Neural Style Transfer</th>
+    <th>Transfer Learning for Image Classification</th>
     <td>10/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Named Entity Recognition in Natural Language Processing</th>
+    <th>Style Transfer using Neural Style Transfer</th>
     <td>11/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Multi-label Image Classification</th>
+    <th>Named Entity Recognition in Natural Language Processing</th>
     <td>12/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Automated Machine Learning (AutoML) Pipeline</th>
+    <th>Multi-label Image Classification</th>
     <td>13/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Time Series Forecasting with LSTM Networks</th>
+    <th>Automated Machine Learning (AutoML) Pipeline</th>
     <td>14/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Graph Neural Networks for Link Prediction</th>
+    <th>Time Series Forecasting with LSTM Networks</th>
     <td>15/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Reinforcement Learning for Game Playing</th>
+    <th>Graph Neural Networks for Link Prediction</th>
     <td>16/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Transformer Models for Language Translation</th>
+    <th>Reinforcement Learning for Game Playing</th>
     <td>17/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Quantum Machine Learning</th>
+    <th>Transformer Models for Language Translation</th>
     <td>18/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Adversarial Attacks and Defenses in Deep Learning</th>
+    <th>Quantum Machine Learning</th>
     <td>19/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Federated Learning for Privacy-Preserving Machine Learning</th>
+    <th>Adversarial Attacks and Defenses in Deep Learning</th>
     <td>20/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Meta-Learning for Few-Shot Learning</th>
+    <th>Federated Learning for Privacy-Preserving Machine Learning</th>
     <td>21/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Precision Agriculture</th>
+    <th>Meta-Learning for Few-Shot Learning</th>
     <td>22/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Bayesian Optimization for Hyperparameter Tuning</th>
+    <th>AI for Precision Agriculture</th>
     <td>23/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Deep Learning for Network Intrusion Detection</th>
+    <th>Bayesian Optimization for Hyperparameter Tuning</th>
     <td>24/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Wildlife Conservation</th>
+    <th>Deep Learning for Network Intrusion Detection</th>
     <td>25/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Mental Health Monitoring</th>
+    <th>AI for Wildlife Conservation</th>
     <td>26/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Medical Image Analysis for Disease Diagnosis</th>
+    <th>AI for Mental Health Monitoring</th>
     <td>27/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Fraud Detection in Financial Transactions with Imbalanced Data</th>
+    <th>Medical Image Analysis for Disease Diagnosis</th>
     <td>28/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI-driven Personalized Learning Platforms</th>
+    <th>Fraud Detection in Financial Transactions with Imbalanced Data</th>
     <td>29/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Deep Reinforcement Learning for Robotics</th>
+    <th>AI-driven Personalized Learning Platforms</th>
     <td>30/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Voice Cloning and Synthesis</th>
+    <th>Deep Reinforcement Learning for Robotics</th>
     <td>31/05/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Deep Learning for Drug Discovery</th>
+    <th>Voice Cloning and Synthesis</th>
     <td>01/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Time Series Forecasting in Energy Systems</th>
+    <th>Deep Learning for Drug Discovery</th>
     <td>02/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Image Super-Resolution using Generative Models</th>
+    <th>Time Series Forecasting in Energy Systems</th>
     <td>03/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Explainable AI in Healthcare Decision Support</th>
+    <th>Image Super-Resolution using Generative Models</th>
     <td>04/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Multi-model Learning for Audio-Visual Recognition</th>
+    <th>Explainable AI in Healthcare Decision Support</th>
     <td>05/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI-powered Music Composition and Generation</th>
+    <th>Multi-model Learning for Audio-Visual Recognition</th>
     <td>06/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI-driven Personalized Fitness Recommendations</th>
+    <th>AI-powered Music Composition and Generation</th>
     <td>07/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Renewable Energy Forecasting</th>
+    <th>AI-driven Personalized Fitness Recommendations</th>
     <td>08/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Neuroevolution for Neural Architecture Search</th>
+    <th>AI for Renewable Energy Forecasting</th>
     <td>09/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Personalized Fashion Styling</th>
+    <th>Neuroevolution for Neural Architecture Search</th>
     <td>10/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Healthcare Resource Allocation</th>
+    <th>AI for Personalized Fashion Styling</th>
     <td>11/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Personalized Financial Planning</th>
+    <th>AI for Healthcare Resource Allocation</th>
     <td>12/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Robotics Perception and Control with Deep Learning</th>
+    <th>AI for Personalized Financial Planning</th>
     <td>13/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Predictive Maintenance in Manufacturing</th>
+    <th>Robotics Perception and Control with Deep Learning</th>
     <td>14/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Traffic Management and Optimization</th>
+    <th>AI for Predictive Maintenance in Manufacturing</th>
     <td>15/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Autonomous Vehicles Perception and Control</th>
+    <th>AI for Traffic Management and Optimization</th>
     <td>16/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Precision Medicine</th>
+    <th>Autonomous Vehicles Perception and Control</th>
     <td>17/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Climate Change Mitigation</th>
+    <th>AI in Precision Medicine</th>
     <td>18/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Space Exploration</th>
+    <th>AI for Climate Change Mitigation</th>
     <td>19/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Sustainable Agriculture</th>
+    <th>AI in Space Exploration</th>
     <td>20/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Financial Trading and Risk Management</th>
+    <th>AI for Sustainable Agriculture</th>
     <td>21/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Agriculture and Crop Management</th>
+    <th>AI in Financial Trading and Risk Management</th>
     <td>22/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Social Good and Humanitarian Efforts</th>
+    <th>AI in Agriculture and Crop Management</th>
     <td>23/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI in Gaming and Entertainment</th>
+    <th>AI in Social Good and Humanitarian Efforts</th>
     <td>24/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Autonomous Vehicle Navigation Using Reinforcement Learning</th>
+    <th>AI in Gaming and Entertainment</th>
     <td>25/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Text Classification using Bag-of-Words and TF-IDF</th>
+    <th>Autonomous Vehicle Navigation Using Reinforcement Learning</th>
     <td>26/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Image Denoising using Autoencoders</th>
+    <th>Text Classification using Bag-of-Words and TF-IDF</th>
     <td>27/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Sequence-to-Sequence Learning for Machine Translation</th>
+    <th>Image Denoising using Autoencoders</th>
     <td>28/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Face Recognition using Siamese Networks</th>
+    <th>Sequence-to-Sequence Learning for Machine Translation</th>
     <td>29/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>StyleGAN for Art Generation</th>
+    <th>Face Recognition using Siamese Networks</th>
     <td>30/06/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Word Embeddings with Word2Vec</th>
+    <th>StyleGAN for Art Generation</th>
     <td>01/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Named Entity Recognition using Bidirectional LSTM-CRF</th>
+    <th>Word Embeddings with Word2Vec</th>
     <td>02/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Personalized Healthcare Recommendations</th>
+    <th>Named Entity Recognition using Bidirectional LSTM-CRF</th>
     <td>03/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Automated Essay Scoring with Natural Language Processing</th>
+    <th>AI for Personalized Healthcare Recommendations</th>
     <td>04/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Music Generation with Recurrent Neural Networks</th>
+    <th>Automated Essay Scoring with Natural Language Processing</th>
     <td>05/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Video Action Recognition with 3D Convolutional Neural Networks</th>
+    <th>Music Generation with Recurrent Neural Networks</th>
     <td>06/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Conversational AI with Sequence-to-Sequence Models</th>
+    <th>Video Action Recognition with 3D Convolutional Neural Networks</th>
     <td>07/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Dynamic Pricing Strategies using Reinforcement Learning</th>
+    <th>Conversational AI with Sequence-to-Sequence Models</th>
     <td>08/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Predictive Maintenance in Manufacturing using Time Series Analysis</th>
+    <th>Dynamic Pricing Strategies using Reinforcement Learning</th>
     <td>09/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Music Recommendation System with Matrix Factorization</th>
+    <th>Predictive Maintenance in Manufacturing using Time Series Analysis</th>
     <td>10/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Human Pose Estimation using OpenPose</th>
+    <th>Music Recommendation System with Matrix Factorization</th>
     <td>11/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Unsupervised Domain Adaptation for Image Classification</th>
+    <th>Human Pose Estimation using OpenPose</th>
     <td>12/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Voice Activity Detection using Deep Learning</th>
+    <th>Unsupervised Domain Adaptation for Image Classification</th>
     <td>13/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Image Captioning with Attention Mechanisms</th>
+    <th>Voice Activity Detection using Deep Learning</th>
     <td>14/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Adversarial Robustness in Deep Learning Models</th>
+    <th>Image Captioning with Attention Mechanisms</th>
     <td>15/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Automated Speech Recognition (ASR) using Deep Speech</th>
+    <th>Adversarial Robustness in Deep Learning Models</th>
     <td>16/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Knowledge Distillation for Model Compression</th>
+    <th>Automated Speech Recognition (ASR) using Deep Speech</th>
     <td>17/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Advanced Hyperparameter Optimization Techniques</th>
+    <th>Knowledge Distillation for Model Compression</th>
     <td>18/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>AI for Waste Management and Recycling Optimization</th>
+    <th>Advanced Hyperparameter Optimization Techniques</th>
     <td>19/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Machine Translation with Transformers</th>
+    <th>AI for Waste Management and Recycling Optimization</th>
     <td>20/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Zero-Shot Learning for Image Classification</th>
+    <th>Machine Translation with Transformers</th>
     <td>21/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Multi-Agent Reinforcement Learning for Traffic Control</th>
+    <th>Zero-Shot Learning for Image Classification</th>
     <td>22/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Fairness and Bias Detection in Machine Learning Models</th>
+    <th>Multi-Agent Reinforcement Learning for Traffic Control</th>
     <td>23/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Reinforcement Learning for Game AI</th>
+    <th>Fairness and Bias Detection in Machine Learning Models</th>
     <td>24/07/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Reinforcement Learning in Robotics for Manipulation Tasks</th>
+    <th>Reinforcement Learning for Game AI</th>
     <td>25/07/2024</td>
+    <td>View Project</td>
+  </tr>
+  <tr>
+    <th>Reinforcement Learning in Robotics for Manipulation Tasks</th>
+    <td>26/07/2024</td>
     <td>View Project</td>
   </tr>
 </table>
