@@ -34,7 +34,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Spam Email Detection using Naive Bayes Classifier</th>
     <td>24/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2004%20Project%2004%20-%20Spam%20Email%20Detection%20using%20Naive%20Bayes%20Classifier">View Project</a></td>
   </tr>
   <tr>
     <th>Breast Cancer Classification using Support Vector Machines</th>
