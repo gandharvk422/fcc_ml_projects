@@ -39,7 +39,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Breast Cancer Classification using Support Vector Machines</th>
     <td>22/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2005%20Project%2005%20-%20Breast%20Cancer%20Classification%20using%20Support%20Vector%20Machines">View Project</a></td>
   </tr>
   <tr>
     <th>Movie Recommendation System using Collaborative Filtering</th>
