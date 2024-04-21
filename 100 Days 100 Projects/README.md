@@ -12,7 +12,7 @@ Below is a list of the projects included in this repository:
 
 1. Predicting House Prices using <a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2001%20Project%2001%20-%20Predicting%20House%20Prices/01.%20Using%20Linear%20Regression">Linear Regression</a> and <a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2001%20Project%2001%20-%20Predicting%20House%20Prices/02.%20Using%20Random%20Forest%20Regression">Random Forest Regression</a>
 
-2. <a href="https://github.com/gandharvk422/machine_learning_projects/100%20Days%20100%20Projects/Day%2002%20Project%2002%20-%20Classifying%20Iris%20Species%20using%20Logistic%20Regression">Classifying Iris Species using Logistic Regression</a>
+2. <a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2002%20Project%2002%20-%20Classifying%20Iris%20Species%20using%20Logistic%20Regression">Classifying Iris Species using Logistic Regression</a>
 
 3. <a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2003%20Project%2003%20-%20Handwritten%20Digit%20Recognition%20using%20K-Nearest%20Neighbors">Handwritten Digit Recognition using K-Nearest Neighbors</a>
 
