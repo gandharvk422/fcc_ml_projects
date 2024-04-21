@@ -14,7 +14,7 @@ Below is a list of the projects included in this repository:
 
 2. <a href="https://github.com/gandharvk422/machine_learning_projects/100 Days 100 Projects/Day 02 Project 02 - Classifying Iris Species using Logistic Regression">Classifying Iris Species using Logistic Regression</a>
 
-3. Handwritten Digit Recognition using K-Nearest Neighbors
+3. <a href="https://github.com/gandharvk422/machine_learning_projects/100 Days 100 Projects/Day 03 Project 03 - Handwritten Digit Recognition using K-Nearest Neighbors">Handwritten Digit Recognition using K-Nearest Neighbors</a>
 
 4. Spam Email Detection using Naive Bayes Classifier
 
