@@ -44,7 +44,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Movie Recommendation System using Collaborative Filtering</th>
     <td>23/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2006%20Project%2006%20-%20Movie%20Recommendation%20System%20using%20Collaborative%20Filtering">View Project</a></td>
   </tr>
   <tr>
     <th>Credit Card Fraud Detection using Decision Trees</th>
