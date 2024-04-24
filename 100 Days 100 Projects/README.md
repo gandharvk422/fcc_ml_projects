@@ -49,7 +49,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Credit Card Fraud Detection using Decision Trees</th>
     <td>24/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2007%20Project%2007%20-%20Credit%20Card%20Fraud%20Detection%20using%20Decision%20Trees">View Project</a></td>
   </tr>
   <tr>
     <th>Image Classification using Convolutional Neural Networks (CNNs)</th>
