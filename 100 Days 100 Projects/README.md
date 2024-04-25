@@ -54,7 +54,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Image Classification using Convolutional Neural Networks (CNNs)</th>
     <td>25/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2008%20Project%2008%20-%20Image%20Classification%20using%20Convolutional%20Neural%20Networks%20(CNNs)">View Project</a></td>
   </tr>
   <tr>
     <th>Stock Price Prediction using Time Series Analysis</th>
