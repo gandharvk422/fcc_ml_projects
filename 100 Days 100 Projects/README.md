@@ -59,7 +59,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Stock Price Prediction using Time Series Analysis</th>
     <td>26/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2009%20Project%2009%20-%20Stock%20Price%20Prediction%20using%20Time%20Series%20Analysis">View Project</a></td>
   </tr>
   <tr>
     <th>Natural Language Processing for Sentiment Analysis</th>
