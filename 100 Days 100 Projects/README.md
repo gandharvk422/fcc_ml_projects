@@ -64,7 +64,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Twitter Sentiment Analysis using Natural Language Processing</th>
     <td>27/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2010%20Project%2010%20-%20Twitter%20Sentiment%20Analysis%20using%20Natural%20Language%20Processing">View Project</a></td>
   </tr>
   <tr>
     <th>Diabetes Prediction using Random Forests</th>
