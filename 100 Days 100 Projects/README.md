@@ -69,7 +69,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Diabetes Prediction using Random Forests</th>
     <td>28/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2011%20Project%2011%20-%20Diabetes%20Prediction%20using%20Random%20Forests">View Project</a></td>
   </tr>
   <tr>
     <th>Customer Churn Prediction using XGBoost</th>
