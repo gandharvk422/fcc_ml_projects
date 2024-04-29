@@ -74,7 +74,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Customer Churn Prediction using XGBoost</th>
     <td>29/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2012%20Project%2012%20-%20Customer%20Churn%20Prediction%20using%20XGBoost">View Project</a></td>
   </tr>
   <tr>
     <th>Hand Gesture Recognition using Deep Learning</th>
