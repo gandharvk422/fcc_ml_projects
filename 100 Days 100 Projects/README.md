@@ -79,7 +79,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Movie Genre Classification using Text Analysis</th>
     <td>30/04/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2013%20Project%2013%20-%20Movie%20Genre%20Classification%20using%20Text%20Classification">View Project</a></td>
   </tr>
   <tr>
     <th>Heart Disease Prediction using Logistic Regression</th>
