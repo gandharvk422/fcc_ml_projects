@@ -77,12 +77,12 @@ Below is a list of the projects included in this repository:
     <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2012%20Project%2012%20-%20Customer%20Churn%20Prediction%20using%20XGBoost">View Project</a></td>
   </tr>
   <tr>
-    <th>Hand Gesture Recognition using Deep Learning</th>
+    <th>Movie Genre Classification using Text Analysis</th>
     <td>30/04/2024</td>
     <td>View Project</td>
   </tr>
   <tr>
-    <th>Human Activity Recognition from Sensor Data</th>
+    <th>Heart Disease Prediction using Logistic Regression</th>
     <td>01/05/2024</td>
     <td>View Project</td>
   </tr>
