@@ -84,7 +84,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Heart Disease Prediction using Logistic Regression</th>
     <td>01/05/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2014%20Project%2014%20-%20Heart%20Disease%20Prediction%20using%20Logistic%20Regression">View Project</a></td>
   </tr>
   <tr>
     <th>Facial Emotion Recognition using CNNs</th>
