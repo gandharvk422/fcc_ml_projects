@@ -89,7 +89,7 @@ Below is a list of the projects included in this repository:
   <tr>
     <th>Facial Emotion Recognition using CNNs</th>
     <td>02/05/2024</td>
-    <td>View Project</td>
+    <td><a href="https://github.com/gandharvk422/machine_learning_projects/tree/main/100%20Days%20100%20Projects/Day%2015%20Project%2015%20-%20Facial%20Emotion%20Recognition%20using%20CNNs">View Project</a></td>
   </tr>
   <tr>
     <th>Text Summarization using Recurrent Neural Networks (RNNs)</th>
