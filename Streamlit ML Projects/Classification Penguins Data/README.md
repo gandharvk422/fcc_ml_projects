@@ -1,4 +1,4 @@
-# Classification Penguins Data
+# Penguins Web App deployed on Heroku
 
 The deployed web app is live at 
 
